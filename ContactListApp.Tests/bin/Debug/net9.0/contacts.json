@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "0aacd45c-4af3-4d15-bd18-13cd2d3ece3c",
+    "FirstName": "Updated",
+    "LastName": "Person",
+    "Email": "updated@example.com",
+    "PhoneNumber": "987654321",
+    "StreetAddress": "Updatedv\u00E4gen 2",
+    "PostalCode": "54321",
+    "City": "Updatedstad"
+  },
+  {
+    "Id": "abc863fa-3871-4d9b-bc91-0591f7fa9a89",
+    "FirstName": "Test",
+    "LastName": "Person",
+    "Email": "test@example.com",
+    "PhoneNumber": "123456789",
+    "StreetAddress": "Testv\u00E4gen 1",
+    "PostalCode": "12345",
+    "City": "Teststad"
+  }
+]

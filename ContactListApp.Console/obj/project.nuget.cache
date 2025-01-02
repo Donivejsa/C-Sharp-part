@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K5ZiA5C0/94=",
+  "success": true,
+  "projectFilePath": "C:\\ContactListApp\\ContactListApp\\ContactListApp.Console\\ContactListApp.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lirid\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Lirid\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
